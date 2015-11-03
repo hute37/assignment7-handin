@@ -48,7 +48,7 @@
     - User Stories:
     
  10. Multiplayer Unity Game
-    - Team Members:  
-    - Repo:
-    - User Stories:
+    - Team Members: Jonathan Clinton, Jonathan Schenker
+    - Repo: https://github.com/Blueteak/SWEngFinal
+    - User Stories: In Repo
     

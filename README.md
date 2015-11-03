@@ -13,9 +13,9 @@
     - User Stories:
     
  3. Random Website Generator
-    - Team Members:  
-    - Repo:
-    - User Stories:
+    - Team Members: Tommy Meisel, Taylor Zhang, Nick Kline 
+    - Repo: https://github.com/thomasameisel/random-startup-website
+    - User Stories: https://github.com/thomasameisel/random-startup-website/blob/master/README.md
     
  4. Online Chess
     - Team Members:  

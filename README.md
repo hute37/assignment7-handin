@@ -11,12 +11,12 @@
     - Team Members:  
     - Repo:
     - User Stories:
-    
+
  3. Random Website Generator
     - Team Members: Tommy Meisel, Taylor Zhang, Nick Kline 
     - Repo: https://github.com/thomasameisel/random-startup-website
     - User Stories: https://github.com/thomasameisel/random-startup-website/blob/master/README.md
-    
+
  4. Online Chess
     - Team Members:  
     - Repo:
@@ -24,31 +24,30 @@
 
  5. Tender for Food Delivery
     - Team Members:  
-    - Repo: 
+    - Repo:
     - User Stories:
- 
+
  6. Fog Finder
     - Team Members:  
     - Repo:
     - User Stories:
-    
+
  7. Opt. Compiler
     - Team Members:  
     - Repo:
     - User Stories:
-    
+
  8. Class Planner
     - Team Members:  
     - Repo:
     - User Stories:
-    
+
  9. Secure Email
-    - Team Members:  
-    - Repo:
-    - User Stories:
-    
+    - Team Members: Grayson Brewer, Collin Jackson, Lawrence Waller
+    - [Repo](https://github.com/cs4278-2015/SecureEmailing)
+    - [User Stories](https://github.com/cs4278-2015/SecureEmailing/blob/master/userStories.md)
+
  10. Multiplayer Unity Game
     - Team Members: Jonathan Clinton, Jonathan Schenker (Open to more)
     - Repo: https://github.com/Blueteak/SWEngFinal
     - User Stories: https://github.com/Blueteak/SWEngFinal/blob/master/README.md
-    

@@ -10,7 +10,7 @@
  2. P2P File Transfer
     - Team Members: Eric Yang, Jason Xiong, Shashank Sharma, Baihua Xuan
     - Repo: https://github.com/cs4278-2015/p2pfile
-    - User Stories: https://github.com/cs4278-2015/p2pfile/blob/master/STORIES.md
+    - User Stories: https://github.com/cs4278-2015/p2pfile/blob/master/README.md
 
  3. Random Website Generator
     - Team Members: Tommy Meisel, Taylor Zhang, Nick Kline 

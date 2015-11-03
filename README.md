@@ -50,5 +50,5 @@
  10. Multiplayer Unity Game
     - Team Members: Jonathan Clinton, Jonathan Schenker (Open to more)
     - Repo: https://github.com/Blueteak/SWEngFinal
-    - User Stories: In Repo
+    - User Stories: https://github.com/Blueteak/SWEngFinal/blob/master/README.md
     

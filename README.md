@@ -48,6 +48,6 @@
     - [User Stories](https://github.com/cs4278-2015/SecureEmailing/blob/master/userStories.md)
 
  10. Multiplayer Unity Game
-    - Team Members: Jonathan Clinton, Jonathan Schenker (Open to more)
+    - Team Members: Jonathan Clinton, Jonathan Schenker, Kevin Liu
     - Repo: https://github.com/Blueteak/SWEngFinal
     - User Stories: https://github.com/Blueteak/SWEngFinal/blob/master/README.md

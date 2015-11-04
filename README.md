@@ -33,9 +33,9 @@
     - User Stories:
 
  7. Opt. Compiler
-    - Team Members:  
-    - Repo:
-    - User Stories:
+    - Team Members: AJ Ballway, Connor McGowan, Michael Bassett
+    - Repo: https://github.com/bassettmb/bfc
+    - User Stories: https://github.com/bassettmb/bfc/blob/master/README.md
 
  8. Class Planner
     - Team Members:  

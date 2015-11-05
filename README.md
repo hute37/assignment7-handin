@@ -23,9 +23,9 @@
     - User Stories:
 
  5. Tender for Food Delivery
-    - Team Members:  
-    - Repo:
-    - User Stories:
+    - Team Members: Anthony Lew, Edward Yun, Emma Birdsong, Nick Sparkman
+    - Repo: https://github.com/cs4278-2015/tinderFood.git
+    - User Stories: https://github.com/cs4278-2015/tinderFood/blob/master/README.md
 
  6. Fog Finder
     - Team Members:  

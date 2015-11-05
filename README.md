@@ -37,10 +37,10 @@
     - Repo: https://github.com/bassettmb/bfc
     - User Stories: https://github.com/bassettmb/bfc/blob/master/README.md
 
- 8. Class Planner
-    - Team Members:  
-    - Repo:
-    - User Stories:
+ 8. Class Collaboration
+    - Team Members: Matt Owens, Parker Klein, Liyiming Ke 
+    - Repo: https://github.com/cs4278-2015/ClassCollaboration
+    - User Stories: https://github.com/cs4278-2015/ClassCollaboration/blob/master/README.md
 
  9. Secure Email
     - Team Members: Grayson Brewer, Collin Jackson, Lawrence Waller

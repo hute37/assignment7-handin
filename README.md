@@ -28,9 +28,9 @@
     - User Stories: https://github.com/cs4278-2015/tinderFood/blob/master/README.md
 
  6. Fog Finder
-    - Team Members:  
-    - Repo:
-    - User Stories:
+    - Team Members: Phil Hawkins, Chris + Jon Lee, Douglas Lisk 
+    - Repo: https://github.com/cs4278-2015/FogFinder/
+    - User Stories:https://github.com/cs4278-2015/FogFinder/blob/master/README.md
 
  7. Opt. Compiler
     - Team Members: AJ Ballway, Connor McGowan, Michael Bassett

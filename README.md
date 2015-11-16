@@ -51,3 +51,8 @@
     - Team Members: Jonathan Clinton, Jonathan Schenker, Kevin Liu
     - Repo: https://github.com/Blueteak/SWEngFinal
     - User Stories: https://github.com/Blueteak/SWEngFinal/blob/master/README.md
+
+ 11. Elastic Machine Learning
+    - Team Members: Liyiming Ke
+    - Repo: https://github.com/Kelym/elastic-machine-learning
+    - User Stories: https://github.com/Kelym/elastic-machine-learning/blob/master/doc/UserStories.md

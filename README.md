@@ -1,5 +1,9 @@
 # assignment7-handin
 
+# Googledoc for class member emails:
+
+https://docs.google.com/document/d/1emxrSf6OgBOgSmP14TbtZwpbRCmqpsRtBfaC1nEbIdw/edit?usp=sharing
+
 # Teams
 
  1. Craigslist + Crime

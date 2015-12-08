@@ -42,7 +42,7 @@ https://docs.google.com/document/d/1emxrSf6OgBOgSmP14TbtZwpbRCmqpsRtBfaC1nEbIdw/
     - User Stories: https://github.com/bassettmb/bfc/blob/master/README.md
 
  8. Meetle
-    - Team Members: Matt Owens, Parker Klein, Liyiming Ke 
+    - Team Members: Matt Owens, Parker Klein, Tristan Kindig 
     - Repo: https://github.com/cs4278-2015/Meetle
     - User Stories: https://github.com/cs4278-2015/Meetle/blob/master/README.md
 

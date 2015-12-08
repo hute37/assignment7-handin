@@ -41,10 +41,10 @@ https://docs.google.com/document/d/1emxrSf6OgBOgSmP14TbtZwpbRCmqpsRtBfaC1nEbIdw/
     - Repo: https://github.com/bassettmb/bfc
     - User Stories: https://github.com/bassettmb/bfc/blob/master/README.md
 
- 8. Class Collaboration
+ 8. Meetle
     - Team Members: Matt Owens, Parker Klein, Liyiming Ke 
-    - Repo: https://github.com/cs4278-2015/ClassCollaboration
-    - User Stories: https://github.com/cs4278-2015/ClassCollaboration/blob/master/README.md
+    - Repo: https://github.com/cs4278-2015/Meetle
+    - User Stories: https://github.com/cs4278-2015/Meetle/blob/master/README.md
 
  9. Secure Email
     - Team Members: Grayson Brewer, Collin Jackson, Lawrence Waller

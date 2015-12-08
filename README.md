@@ -55,6 +55,7 @@ https://docs.google.com/document/d/1emxrSf6OgBOgSmP14TbtZwpbRCmqpsRtBfaC1nEbIdw/
     - Team Members: Jonathan Clinton, Jonathan Schenker, Kevin Liu
     - Repo: https://github.com/Blueteak/SWEngFinal
     - User Stories: https://github.com/Blueteak/SWEngFinal/blob/master/README.md
+    - Executable Download (Mac and PC): http://tinyurl.com/CS4278exes
 
  11. Elastic Machine Learning
     - Team Members: Liyiming Ke
